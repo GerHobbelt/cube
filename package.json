@@ -8,7 +8,7 @@
   "repository": {"type": "git", "url": "http://github.com/square/cube.git"},
   "main": "./lib/cube",
   "dependencies": {
-    "mongodb": "1.0.1",
+    "mongodb": "3.1.13",
     "node-static": "0.5.9",
     "pegjs": "0.6.2",
     "vows": "0.5.11",
